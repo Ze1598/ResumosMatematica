@@ -1,4 +1,4 @@
-# Resumos de Matematica de Ensino Secundário
+# Resumos de Matemática de Ensino Secundário
 
 Repositório com resumos de Matemática de ensino secundário.
 
